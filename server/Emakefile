@@ -1,0 +1,9 @@
+{ ["sys/*" , "src/*", "src/**/*","src/***/**/*"], 
+	[
+		{['gen_server2.erl'],[]},
+		{i, "include"},
+		{outdir, "./ebin"},
+		inline,
+		{inline_size,30}
+	]
+}. 

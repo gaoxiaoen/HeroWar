@@ -1,0 +1,86 @@
+#debug 2019-2-26 11:16:52[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:17:47[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:19:2[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:19:2[sd_gateway:24] sd_gateway init
+
+#debug 2019-2-26 11:19:2[sd_gateway_server:20] start raw server...
+
+#debug 2019-2-26 11:19:2[sd_gateway_server:67] code_start begin...,Port = 6666
+
+#debug 2019-2-26 11:19:2[sd_gateway_server:70] code_start begin...,Listen = #Port<0.603>
+
+#debug 2019-2-26 11:24:24[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:24:24[sd_gateway:24] sd_gateway init
+
+#debug 2019-2-26 11:24:24[sd_gateway_server:20] start raw server...
+
+#debug 2019-2-26 11:24:24[sd_gateway_server:68] code_start begin...,Port = 6666
+
+#debug 2019-2-26 11:24:24[sd_gateway_server:71] code_start begin...,Listen = #Port<0.603>
+
+#debug 2019-2-26 11:24:24[sd_gateway_server:25] Register name = sd_agme6666, Pid = <0.56.0>
+
+#debug 2019-2-26 11:24:24[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.15760066>
+
+#debug 2019-2-26 11:43:53[sd_gateway_server:133] start_child Socket = #Port<0.1368>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:43:53[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.15760066>
+
+#debug 2019-2-26 11:45:28[sd_gateway_server:133] start_child Socket = #Port<0.1371>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:45:28[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.15760066>
+
+#debug 2019-2-26 11:45:51[sd_gateway_server:133] start_child Socket = #Port<0.1374>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:45:51[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.15760066>
+
+#debug 2019-2-26 11:46:2[sd_gateway_server:133] start_child Socket = #Port<0.1377>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:46:2[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.15760066>
+
+#debug 2019-2-26 11:49:18[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:49:18[sd_gateway:24] sd_gateway init
+
+#debug 2019-2-26 11:49:18[sd_gateway_server:20] start raw server...
+
+#debug 2019-2-26 11:49:18[sd_gateway_server:68] code_start begin...,Port = 6666
+
+#debug 2019-2-26 11:49:18[sd_gateway_server:71] code_start begin...,Listen = #Port<0.603>
+
+#debug 2019-2-26 11:49:18[sd_gateway_server:25] Register name = sd_agme6666, Pid = <0.56.0>
+
+#debug 2019-2-26 11:49:18[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.63476063>,wait accept
+
+#debug 2019-2-26 11:49:35[sd_gateway_server:133] start_child Socket = #Port<0.619>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:49:35[sd_gateway_server:130] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.63476063>,wait accept
+
+#debug 2019-2-26 11:54:31[sd_gateway:20] sd_gateway start_link
+
+#debug 2019-2-26 11:54:31[sd_gateway:24] sd_gateway init
+
+#debug 2019-2-26 11:54:31[sd_gateway_server:20] start raw server...
+
+#debug 2019-2-26 11:54:31[sd_gateway_server:68] code_start begin...,Port = 6666
+
+#debug 2019-2-26 11:54:31[sd_gateway_server:71] code_start begin...,Listen = #Port<0.603>
+
+#debug 2019-2-26 11:54:31[sd_gateway_server:25] Register name = sd_agme6666, Pid = <0.56.0>
+
+#debug 2019-2-26 11:54:31[sd_gateway_server:133] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.63476063>,wait accept
+
+#debug 2019-2-26 11:54:40[sd_gateway_server:136] start_child Socket = #Port<0.619>, Listen = #Port<0.603>
+
+#debug 2019-2-26 11:54:40[sd_gateway_server:88] New istarted = <0.59.0>
+
+#debug 2019-2-26 11:54:40[sd_gateway_server:133] start_child Listen = #Port<0.603>, Fun = #Fun<sd_gateway.0.63476063>,wait accept
+
+#debug 2019-2-26 11:54:45[sd_gateway:72] get socket msg = {ok,<<"f\r\nf">>}
+
+#debug 2019-2-26 11:54:45[sd_gateway_server:95] Pid is exit = <0.59.0>
+
